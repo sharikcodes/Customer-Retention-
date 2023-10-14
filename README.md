@@ -2,15 +2,21 @@
 
 DashBoard [Link](https://www.novypro.com/project/customer-retention-dashboard-8)
 
-## Data Modelling
+## Chrun Dashboard
 <p align="center">
-    <img src="https://github.com/sharikcodes/AtliQ_Hospitality_Analysis_PowerBI/blob/main/Pictures/mock%20up%20dashboard_atliq%20grands.png" width="600">
+    <img src="https://github.com/sharikcodes/Customer-Retention-/blob/main/Pictures/Churn%20Dashboard.png" width="600">
 </p>
 
-## Dashboard
+## Customer Risk Analysis
 <p align="center">
-    <img src="https://github.com/sharikcodes/AtliQ_Hospitality_Analysis_PowerBI/blob/main/Pictures/mock%20up%20dashboard_atliq%20grands.png" width="600">
+    <img src="https://github.com/sharikcodes/Customer-Retention-/blob/main/Pictures/Customer%20Risk%20Analysis.png" width="600">
 </p>
+
+## Data Model
+<p align="center">
+    <img src="https://github.com/sharikcodes/Customer-Retention-/blob/main/Pictures/Data%20Modelling.png" width="600">
+</p>
+
 
 ●	Built a Power BI dashboard covering different KPIs (Average revenue per user (ARPU), Churn rate %, and Revenue) to track the 
 customer churn rate.
